@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yilmaz-hcsm&label=Profile%20views&color=0e75b6&style=flat" alt="yilmaz-hcsm" /> </p>
 
-- 🌱 I’m currently learning **Kotlin and Video processing with Python OpenCV**
+- 🌱 I’m currently learning **Machine Learning with Python and Video processing with Python OpenCV**
 
 - 📫 How to reach me **yilmazhaciosmanoglu123@gmail.com**
 
